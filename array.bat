@@ -1,7 +1,7 @@
 
 ::---------------------------------------------------
 :: Pseudo array functions
-:: Yvonne Pautz (c) 2016
+:: Yvonne P. (c) 2016
 :: agita[at]live[dot]de
 ::
 :: function list:
